@@ -81,7 +81,7 @@ export default function Step3Preview({
       </div>
 
       {/* Probability + Actions */}
-      <div className="mt-8 flex items-center justify-between">
+      <div className="mt-8 flex items-center justify-between probabilty-cta">
         <div>
           <div className="text-sm text-gray-500">
             Current simulated probability
@@ -127,3 +127,4 @@ export default function Step3Preview({
     </motion.div>
   );
 }
+
