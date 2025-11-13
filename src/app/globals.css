@@ -32,13 +32,13 @@ body {
 
 @media(max-width: 900px) {
   /* small utility to constrain content */
-.container {
-  padding-left: 0.5rem !important;
-  padding-right: 0.5rem !important;
-}
+  .container {
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+  }
 
-.probabilty-cta {
-  display: flex;
-  flex-direction: column !important;
-}
+  .probabilty-cta {
+    display: flex;
+    flex-direction: column !important;
+  }
 }
